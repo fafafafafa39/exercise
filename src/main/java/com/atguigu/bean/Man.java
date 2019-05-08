@@ -11,6 +11,8 @@ public class Man {
     public Man(String hobby) {
 
         System.out.println("1213");
+        System.out.println("xuze");
+
         this.hobby = hobby;
     }
 
